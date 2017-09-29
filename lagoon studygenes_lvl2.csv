@@ -1,0 +1,160 @@
+level2,nador_lagoon_1,nador_lagoon_2,oualidia_lagoon_1,oualidia_lagoon_2
+ABC transporters,3700,3412,1030,935
+ATP synthases,3331,3125,1436,1332
+Acid stress,305,273,120,110
+Adhesion,310,305,172,143
+"Alanine, serine, and glycine",4519,4203,1714,1554
+Aminosugars,439,402,150,134
+Anaerobic degradation of aromatic compounds,387,356,82,80
+"Arginine; urea cycle, polyamines",5429,5102,1619,1511
+Aromatic amino acids and derivatives,6217,5785,1903,1720
+"Bacterial cytostatics, differentiation factors and antibiotics",23,25,9,3
+"Bacteriocins, ribosomally synthesized antibacterial peptides",3,2,15,8
+Biologically active compounds in metazoan cell defence and differentiation,4,1,3,1
+Biosynthesis of galactoglycans and related lipopolysacharides,1711,1499,431,394
+Biosynthesis of phenylpropanoids,67,63,21,17
+Biotin,309,280,75,78
+Branched-chain amino acids,7574,7210,2383,2213
+CO2 fixation,4189,3922,1490,1335
+CRISPRs and associated hypotheticals,0,0,2,2
+CRISPs,9,7,6,6
+Capsular and extracellular polysacchrides,4736,4379,1544,1379
+Carbohydrates,327,293,109,90
+Catabolism of an unknown compound,8,5,5,7
+Cell Division,2296,2170,698,661
+Cell wall of Mycobacteria,300,282,94,90
+Central carbohydrate metabolism,17595,16411,6210,5701
+"Chemotaxis, response regulators",3,2,7,5
+"Choline bitartrate degradation, putative",166,149,56,59
+Chromosome Replication,183,161,56,60
+Clustering-based subsystems,1415,1289,399,380
+Coenzyme A,1395,1288,407,356
+Coenzyme B,3,2,0,0
+Coenzyme F420,104,106,11,5
+Coenzyme M,100,94,34,27
+Cold shock,201,186,81,83
+Cytochrome biogenesis,682,627,238,213
+D-tyrosyl-tRNA(Tyr) deacylase (EC 3.1.-.-) cluster,72,76,23,20
+DNA metabolism,49,41,3,4
+DNA polymerase III epsilon cluster,440,435,110,111
+DNA recombination,341,316,123,119
+DNA repair,11112,10295,3556,3306
+DNA replication,5139,4766,1693,1520
+"DNA uptake, competence",106,116,40,37
+Dessication stress,1,0,0,0
+Detoxification,1250,1169,350,331
+Di- and oligosaccharides,2023,1877,547,490
+Electron accepting reactions,3099,2952,1417,1345
+Electron donating reactions,7031,6414,2799,2624
+Electron transport and photophosphorylation,2323,2095,640,604
+Fatty acid metabolic cluster,1460,1390,479,439
+Fatty acids,4891,4606,1711,1577
+Fermentation,3096,2811,880,802
+Flagella protein?,61,54,7,7
+Flagellar motility in Prokaryota,2221,2013,714,622
+Folate and pterines,8569,7872,2932,2612
+Gene Transfer Agent (GTA),61,54,39,34
+"Glutamine, glutamate, aspartate, asparagine; ammonia assimilation",2169,2067,752,701
+Glycoside hydrolases,24,23,10,16
+Gram-Negative cell wall components,4527,4237,1372,1212
+Gram-Positive cell wall components,726,661,205,180
+Heat shock,978,915,284,282
+Histidine Metabolism,2509,2297,763,702
+Hypothetical Related to Dihydroorate Dehydrogenase,387,342,103,96
+Hypothetical in Lysine biosynthetic cluster,110,95,42,41
+Hypothetical lipase related to Phosphatidate metabolism,164,131,28,22
+Hypothetical protein possible functionally linked with Alanyl-tRNA synthetase,1108,1040,373,356
+Inorganic sulfur assimilation,1115,1057,401,371
+Invasion and intracellular resistance,34,38,72,47
+Isoprenoid/cell wall biosynthesis: PREDICTED UNDECAPRENYL DIPHOSPHATE PHOSPHATASE,1439,1398,499,433
+Isoprenoids,3325,3010,882,770
+Light-harvesting complexes,748,647,10,9
+Lipid-derived mediators,5,9,5,2
+Lipoic acid,213,195,71,60
+Lysine Biosynthesis,287,292,133,121
+"Lysine, threonine, methionine, and cysteine",10234,9446,3790,3430
+Metabolism of central aromatic intermediates,1213,1083,321,309
+Methylamine utilization,263,262,22,16
+Molybdopterin oxidoreductase,554,495,128,112
+Monosaccharides,2784,2574,975,864
+NAD and NADP,1912,1734,618,557
+Nucleotidyl-phosphate metabolic cluster,379,339,156,148
+One-carbon Metabolism,4908,4542,1636,1531
+Organic acids,2741,2594,1096,1070
+Organic sulfur assimilation,1595,1439,473,401
+Osmotic stress,3093,2960,834,762
+Oxidative stress,3392,3090,1150,1078
+Pathogenicity islands,1306,1280,715,637
+Peripheral pathways for catabolism of aromatic compounds,2910,2701,779,703
+Periplasmic Stress,310,295,111,104
+"Phages, Prophages",15504,14460,2903,2615
+Phosphate metabolism,646,623,140,145
+Phospholipids,870,823,310,272
+Plant Alkaloids,234,234,124,119
+Plant Hormones,632,575,226,215
+Plant Octadecanoids,1,0,2,1
+Plant-Prokaryote DOE project,28169,26381,8969,8125
+Plasmid related functions,73,65,10,9
+Polysaccharides,1093,989,262,255
+Probably GTP or GMP signaling related,660,639,195,167
+Probably Pyrimidine biosynthesis-related,492,464,181,178
+Probably Ybbk-related hypothetical membrane proteins,241,228,62,50
+Programmed Cell Death and Toxin-antitoxin Systems,81,77,86,67
+Proline and 4-hydroxyproline,468,478,165,154
+Proteasome related clusters,8,7,5,5
+"Protein and nucleoprotein secretion system, Type IV",1197,1157,438,415
+Protein biosynthesis,28297,26414,10916,10038
+Protein degradation,6887,6393,2693,2446
+Protein export?,682,610,188,177
+Protein folding,3008,2756,1115,1065
+Protein processing and modification,3073,2871,1234,1135
+"Protein secretion system, Type I",42,44,16,16
+"Protein secretion system, Type II",715,689,232,192
+"Protein secretion system, Type III",7,9,5,5
+"Protein secretion system, Type V",5,7,1,2
+"Protein secretion system, Type VI",37,26,32,31
+"Protein secretion system, Type VII (Chaperone/Usher pathway, CU)",0,0,1,1
+"Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP)",136,145,44,34
+Protein translocation across cytoplasmic membrane,3708,3377,1333,1182
+Proteolytic pathway,7,6,19,19
+Purines,8011,7471,2755,2519
+Putative GGDEF domain protein related to agglutinin secretion,26,31,21,16
+Putative Isoquinoline 1-oxidoreductase subunit,75,66,22,21
+Putative asociate of RNA polymerase sigma-54 factor rpoN,226,224,63,60
+"Putrescine/GABA utilization cluster-temporal,to add to SSs",296,284,106,106
+Pyridoxine,1349,1275,482,466
+Pyrimidines,2381,2133,855,746
+Pyruvate kinase associated cluster,51,55,6,10
+Quinone cofactors,1507,1331,406,366
+Quorum sensing and biofilm formation,716,676,268,249
+RNA processing and modification,10530,9686,3264,3034
+Recombination related cluster,191,182,26,24
+Regulation of virulence,872,803,267,231
+Resistance to antibiotics and toxic compounds,6711,6124,2114,1912
+Reverse electron transport,0,0,1,0
+"Riboflavin, FMN, FAD",1140,1028,341,318
+Ribosomal Protein L28P relates to a set of uncharacterized proteins,11,11,7,6
+Selenoproteins,605,536,210,202
+Shiga toxin cluster,720,702,342,320
+Siderophores,53,38,26,19
+Signal transduction in Eukaryotes,0,1,2,3
+Social motility and nonflagellar swimming in bacteria,2,2,0,0
+Sodium Ion-Coupled Energetics,52,46,18,14
+"Sugar Phosphotransferase Systems, PTS",25,25,15,13
+Sugar alcohols,1937,1805,534,463
+Sulfatases and sulfatase modifying factor 1 (and a hypothetical),313,282,79,60
+Tetrapyrroles,6899,6301,1586,1550
+Three hypotheticals linked to lipoprotein biosynthesis,101,88,9,8
+TldD cluster,36,28,33,25
+Toxins and superantigens,7,8,1,1
+Transcription,6076,5709,2508,2265
+Translation,286,259,157,125
+Transposable elements,297,267,146,121
+Triacylglycerols,18,10,15,10
+Tricarboxylate transporter,1633,1546,843,754
+Two related proteases,213,199,93,89
+Uni- Sym- and Antiporters,459,419,175,146
+alpha-proteobacterial cluster of hypotheticals,153,128,28,18
+proteosome related,52,42,35,37
+recX and regulatory cluster,0,0,2,2
+tRNA sulfuration,174,154,45,46

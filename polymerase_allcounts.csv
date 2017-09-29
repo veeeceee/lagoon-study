@@ -1,0 +1,448 @@
+,gene function,organism,nador_2_counts,phylum,class,order,family,oualidia_2_counts,oualidia_1_counts,nador_1_counts
+1705,DNA polymerase,Enterobacteria phage T5,8.31,,,Caudovirales,Siphoviridae,12.0,11.0,9.09
+1706,DNA polymerase I,Candidatus Methanoregula boonei 6A8,0.0,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,,,0.0
+1707,DNA polymerase I,Chloroflexus aggregans DSM 9485,2.49,Chloroflexi,Chloroflexia,Chloroflexales,Chloroflexaceae,1.0,,
+1708,DNA polymerase I,Fulvimarina pelagi HTCC2506,3.27,Proteobacteria,Alphaproteobacteria,Rhizobiales,Aurantimonadaceae,6.0,3.0,
+1709,DNA polymerase I,Maritimibacter alkaliphilus HTCC2654,10.8,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,15.61
+1710,DNA polymerase I,Neisseria meningitidis MC58,0.0,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,,,0.0
+1711,DNA polymerase I,Photobacterium profundum SS9,6.7,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,,,3.05
+1712,DNA polymerase I,Pseudomonas fluorescens SBW25,3.09,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,,
+1713,DNA polymerase I,Psychrobacter cryohalolentis K5,0.0,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,,,2.55
+1714,DNA polymerase I,Ralstonia eutropha JMP134,4.11,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,,,1.7
+1715,DNA polymerase I,Roseovarius sp. 217,9.92,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,8.55
+1716,DNA polymerase I,Shewanella violacea DSS12,1.7,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,,,0.0
+1717,DNA polymerase I,Shigella flexneri 2a str. 301,8.09,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,2.0,1.0,8.14
+1718,DNA polymerase I,Silicibacter sp. TrichCH4B,0.0,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,0.0
+1719,DNA polymerase I,Sinorhizobium medicae WSM419,4.05,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,1.0,1.0,7.32
+1720,DNA polymerase I,Streptococcus pyogenes MGAS10270,1.62,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,,,0.0
+1721,DNA polymerase I,Synechococcus sp. WH 5701,1.69,Cyanobacteria,,Synechococcales,Synechococcaceae,,,1.66
+1722,DNA polymerase I,Vibrio mimicus VM573,3.32,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,,,3.17
+1723,DNA polymerase I,Yersinia enterocolitica subsp. enterocolitica 8081,0.0,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,2.0,,2.5
+1724,DNA polymerase I superfamily,Nitrosococcus oceani AFC27,0.0,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,2.0,1.0,2.4
+1725,DNA polymerase II,Acidithiobacillus ferrooxidans ATCC 23270,3.22,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,,,
+1726,DNA polymerase II,Acidovorax citrulli AAC00-1,0.0,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,,,0.0
+1727,DNA polymerase II,Anaeromyxobacter dehalogenans 2CP-C,0.0,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,,,
+1728,DNA polymerase II,Candidatus Blochmannia floridanus,0.0,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,,,
+1729,DNA polymerase II,Candidatus Koribacter versatilis Ellin345,8.07,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,,,4.12
+1730,DNA polymerase II,Clostridium lentocellum DSM 5427,2.49,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,,,
+1731,DNA polymerase II,Flavobacteria bacterium MS024-2A,40.39,Bacteroidetes,Flavobacteriia,,,4.0,5.0,
+1732,DNA polymerase II,Kineococcus radiotolerans SRS30216,0.0,Actinobacteria,Actinobacteria,Kineosporiales,Kineosporiaceae,1.0,,
+1733,DNA polymerase II,Nitrobacter hamburgensis X14,0.0,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,,,
+1734,DNA polymerase II,Polaribacter sp. MED152,10.0,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,1.0,1.0,
+1735,DNA polymerase II,Pseudomonas syringae pv. tomato str. DC3000,2.37,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,1.0,,
+1736,DNA polymerase II,Rhodoferax ferrireducens T118,1.68,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,,,0.0
+1737,DNA polymerase II,Roseovarius sp. 217,2.54,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,2.0,4.0,3.39
+1738,DNA polymerase II,Sideroxydans lithotrophicus ES-1,2.38,Proteobacteria,Betaproteobacteria,Gallionellales,Gallionellaceae,,1.0,3.23
+1739,DNA polymerase II,Sphingomonas sp. SKA58,0.0,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,,,0.0
+1740,DNA polymerase II,Sulfitobacter sp. NAS-14.1,5.74,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,6.73
+1741,DNA polymerase II,Sulfurihydrogenibium sp. YO3AOP1,3.25,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,1.0,,
+1742,DNA polymerase II,Thalassiobium sp. R2A62,6.59,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,5.7
+1743,DNA polymerase II,Thioalkalivibrio sp. HL-EbGR7,0.0,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,,,0.0
+1744,DNA polymerase II,Wolbachia endosymbiont of Drosophila melanogaster,4.11,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,,,2.48
+1745,DNA polymerase II,gamma proteobacterium NOR5-3,0.0,Chordata,Mammalia,Primates,Hominidae,,,1.65
+1746,DNA polymerase II large subunit,Methanobrevibacter smithii ATCC 35061,0.0,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,,,
+1747,DNA polymerase III alpha subunit,Polaribacter irgensii 23-P,0.0,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,0.0
+1748,DNA polymerase III catalytic subuni,Dehalococcoides sp. BAV1,0.0,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,,,0.0
+1749,DNA polymerase III gamma/tau subunit,Flavobacteria bacterium BBFL7,2.46,Bacteroidetes,Flavobacteriia,,,,,4.08
+1750,DNA polymerase III subunit alpha,Azospirillum sp. B510,1.58,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,4.0,3.0,1.7
+1751,DNA polymerase III subunit alpha,Nocardia farcinica IFM 10152,1.52,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,,1.0,
+1752,DNA polymerase III subunit alpha,Paracoccus denitrificans PD1222,5.91,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,2.0,2.0,0.0
+1753,DNA polymerase III subunit alpha,Propionibacterium acnes KPA171202,0.0,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,,,0.0
+1754,DNA polymerase III subunit alpha,Rickettsia conorii str. Malish 7,0.0,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,,,
+1755,DNA polymerase III subunit alpha,Thermobispora bispora DSM 43833,0.0,Actinobacteria,Actinobacteria,,,3.0,2.0,
+1756,DNA polymerase III subunit alpha,alpha proteobacterium HIMB114,19.69,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,38.0,38.0,17.65
+1757,DNA polymerase III subunit beta,Chelativorans sp. BNC1,0.0,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,,,0.0
+1758,DNA polymerase III subunit beta,Vibrio harveyi ATCC BAA-1116,0.0,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,,,0.0
+1759,DNA polymerase III subunit beta,Yersinia enterocolitica subsp. enterocolitica 8081,0.0,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,,,0.0
+1760,DNA polymerase III subunit delta,Pseudomonas entomophila L48,2.45,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,,
+1761,DNA polymerase III subunit delta,Synechococcus sp. WH 8102,5.6,Cyanobacteria,,Synechococcales,Synechococcaceae,,,4.12
+1762,DNA polymerase III subunit delta'',Citreicella sp. SE45,3.32,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,2.0,2.0,
+1763,DNA polymerase III subunit epsilon,Maribacter sp. HTCC2170,1.61,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,1.0,2.0,1.63
+1764,DNA polymerase III subunit gamma/tau,Psychroflexus torquis ATCC 700755,0.0,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,0.0
+1765,DNA polymerase III subunit gamma/tau,candidate division TM7 single-cell isolate TM7c,1.65,,,,,,,1.57
+1766,DNA polymerase III subunits gamma and tau,Oceanicola batsensis HTCC2597,4.95,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,10.78
+1767,DNA polymerase III subunits gamma and tau,Parvularcula bermudensis HTCC2503,1.69,Proteobacteria,Alphaproteobacteria,Parvularculales,Parvularculaceae,,,0.0
+1768,DNA polymerase III subunits gamma and tau,Sulfitobacter sp. NAS-14.1,9.97,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,1.0,1.0,7.38
+1769,DNA polymerase III subunits gamma and tau,marine actinobacterium PHSC20C1,2.53,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,5.0,5.0,2.5
+1770,DNA polymerase IV,Flavobacteria bacterium BAL38,2.47,Bacteroidetes,Flavobacteriia,Flavobacteriales,,2.0,2.0,1.72
+1771,DNA polymerase IV,Listeria innocua Clip11262,1.67,Firmicutes,Bacilli,Bacillales,Listeriaceae,1.0,,0.0
+1772,DNA polymerase V,Synechococcus elongatus PCC 6301,3.36,Cyanobacteria,,Synechococcales,Synechococcaceae,3.0,,4.03
+1773,DNA polymerase beta domain protein region,Bacillus tusciae DSM 2912,0.0,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,,,
+1774,DNA polymerase beta family protein,Blastopirellula marina DSM 3645,0.0,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,,,0.0
+1775,DNA polymerase delta catalytic subunit,Aedes aegypti,0.0,Arthropoda,Insecta,Diptera,Culicidae,1.0,,
+1776,DNA polymerase i,Asticcacaulis excentricus CB 48,2.53,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,,2.0,3.9
+1777,DNA polymerase ii,Calditerrivibrio nitroreducens DSM 19672,0.0,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,,,0.0
+1778,DNA polymerase kappa,Homo sapiens,0.0,Chordata,Mammalia,Primates,Hominidae,2.0,1.0,0.0
+1779,DNA polymerase subunits gamma and tau,Thiobacillus denitrificans ATCC 25259,1.57,Proteobacteria,Betaproteobacteria,Hydrogenophilales,Hydrogenophilaceae,,,1.59
+1780,DNA polymerase type I,Bacteroidetes oral taxon 274 str. F0058,0.0,Bacteroidetes,,,,,,0.0
+1895,DNA-directed DNA polymerase,Actinomyces urogenitalis DSM 15434,0.0,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,2.0,1.0,
+1896,DNA-directed DNA polymerase,Thioalkalivibrio sp. HL-EbGR7,0.0,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,2.0,2.0,2.51
+1897,DNA-directed DNA polymerase I,Mannheimia haemolytica serotype A2 str. OVINE,1.68,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,,,1.61
+1898,DNA-directed DNA polymerase III alpha subunit,Staphylococcus aureus subsp. aureus TCH70,5.11,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,2.0,1.0,3.93
+1920,DNA-directed RNA polymerase I largest subuni,Perkinsus marinus ATCC 50983,0.0,,,Perkinsida,Perkinsidae,,,0.0
+1921,DNA-directed RNA polymerase II largest subuni,Ricinus communis,3.28,Streptophyta,,Malpighiales,Euphorbiaceae,11.0,11.0,2.46
+1922,DNA-directed RNA polymerase alpha subunit,Croceibacter atlanticus HTCC2559,5.92,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,9.07
+1923,DNA-directed RNA polymerase beta chain,Blastopirellula marina DSM 3645,1.6,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,,,0.0
+1924,DNA-directed RNA polymerase beta chain,Flavobacteria bacterium BBFL7,17.37,Bacteroidetes,Flavobacteriia,,,6.0,1.0,9.9
+1925,DNA-directed RNA polymerase beta subunit,Lyngbya sp. PCC 8106,4.91,Cyanobacteria,,Oscillatoriales,Oscillatoriaceae,2.0,2.0,0.0
+1926,DNA-directed RNA polymerase beta subunit,Polaribacter irgensii 23-P,8.29,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,2.0,2.0,10.73
+1927,DNA-directed RNA polymerase beta subunit,Sulfitobacter sp. NAS-14.1,17.28,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,13.0,10.0,23.96
+1928,DNA-directed RNA polymerase beta'' subunit,Mariprofundus ferrooxydans PV-1,0.0,Proteobacteria,Zetaproteobacteria,Mariprofundales,Mariprofundaceae,,,
+1929,DNA-directed RNA polymerase omega chain (RNAP omega subunit) (Transcriptase omega chain) (RNA polymerase omega subunit),Methylobacterium extorquens DM4,1.68,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,,,1.64
+1930,DNA-directed RNA polymerase sigma subunit (sigma70/sigma32),Prochlorococcus marinus subsp. marinus str. CCMP1375,6.62,Cyanobacteria,,Synechococcales,Prochloraceae,,,6.64
+1931,DNA-directed RNA polymerase subunit A'',Aciduliprofundum boonei T469,2.51,Euryarchaeota,,,,,,0.0
+1932,DNA-directed RNA polymerase subunit A'',Candidatus Methanoregula boonei 6A8,1.69,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,,,2.48
+1933,DNA-directed RNA polymerase subunit B,Methanohalobium evestigatum Z-7303,0.0,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,,,
+1934,DNA-directed RNA polymerase subunit N,Psychroflexus torquis ATCC 700755,13.28,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,15.55
+1935,DNA-directed RNA polymerase subunit alpha,Acidiphilium cryptum JF-5,0.0,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,,,
+1936,DNA-directed RNA polymerase subunit alpha,Aeromonas hydrophila subsp. hydrophila ATCC 7966,0.0,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,,,0.0
+1937,DNA-directed RNA polymerase subunit alpha,Bacteroides fragilis YCH46,1.7,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,2.0,1.0,0.0
+1938,DNA-directed RNA polymerase subunit alpha,Kribbella flavida DSM 17836,0.0,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,,,
+1939,DNA-directed RNA polymerase subunit alpha,Mycobacterium marinum M,0.0,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,,,0.0
+1940,DNA-directed RNA polymerase subunit alpha,Nocardia farcinica IFM 10152,0.0,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,,,0.0
+1941,DNA-directed RNA polymerase subunit alpha,Rhodopirellula baltica SH 1,1.73,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,,,0.0
+1942,DNA-directed RNA polymerase subunit alpha,Roseomonas cervicalis ATCC 49957,5.14,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,,,2.43
+1943,DNA-directed RNA polymerase subunit alpha,Streptococcus agalactiae A909,1.57,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,,,
+1944,DNA-directed RNA polymerase subunit alpha,Syntrophobacter fumaroxidans MPOB,0.0,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,,,4.1
+1945,DNA-directed RNA polymerase subunit beta,Acidiphilium cryptum JF-5,8.33,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,4.0,6.0,14.75
+1946,DNA-directed RNA polymerase subunit beta,Brucella canis ATCC 23365,7.36,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,16.0,2.0,7.45
+1947,DNA-directed RNA polymerase subunit beta,Buchnera aphidicola str. APS (Acyrthosiphon pisum),13.36,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,2.0,2.0,5.84
+1948,DNA-directed RNA polymerase subunit beta,Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),0.0,Arthropoda,Insecta,Hemiptera,Aphididae,,,
+1949,DNA-directed RNA polymerase subunit beta,Candidatus Protochlamydia amoebophila UWE25,1.68,Chlamydiae,Chlamydiia,Parachlamydiales,Parachlamydiaceae,3.0,2.0,2.46
+1950,DNA-directed RNA polymerase subunit beta,Caulobacter sp. K31,1.6,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,,,
+1951,DNA-directed RNA polymerase subunit beta,Deferribacter desulfuricans SSM1,1.69,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,1.0,1.0,
+1952,DNA-directed RNA polymerase subunit beta,Mycobacterium gilvum PYR-GCK,1.64,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,2.0,4.0,4.96
+1953,DNA-directed RNA polymerase subunit beta,Shewanella sediminis HAW-EB3,5.74,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,1.0,2.0,6.49
+1954,DNA-directed RNA polymerase subunit beta,cyanobacterium UCYN-A,0.0,Cyanobacteria,,Chroococcales,Aphanothecaceae,6.0,4.0,
+1955,DNA-directed RNA polymerase subunit beta'',Arthrobacter sp. FB24,1.65,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,,,0.0
+1956,DNA-directed RNA polymerase subunit beta'',Beijerinckia indica subsp. indica ATCC 9039,2.42,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,,,
+1957,DNA-directed RNA polymerase subunit beta'',Bordetella bronchiseptica RB50,1.73,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,2.0,1.0,1.6
+1958,DNA-directed RNA polymerase subunit beta'',Burkholderia cenocepacia AU 1054,2.41,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,,,
+1959,DNA-directed RNA polymerase subunit beta'',Candidatus Solibacter usitatus Ellin6076,2.47,Acidobacteria,Solibacteres,Solibacterales,Solibacteraceae,,1.0,2.47
+1960,DNA-directed RNA polymerase subunit beta'',Caulobacter crescentus NA1000,3.98,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,7.0,5.0,2.45
+1961,DNA-directed RNA polymerase subunit beta'',Escherichia coli O111:H- str. 11128,3.37,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,,,0.0
+1962,DNA-directed RNA polymerase subunit beta'',Methylobacillus flagellatus KT,14.75,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,29.0,28.0,17.9
+1963,DNA-directed RNA polymerase subunit beta'',Mycobacterium tuberculosis T46,4.14,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,,,6.28
+1964,DNA-directed RNA polymerase subunit beta'',Neisseria gonorrhoeae FA19,0.0,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,,,
+1965,DNA-directed RNA polymerase subunit beta'',Nocardia farcinica IFM 10152,0.0,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,9.0,3.0,2.48
+1966,DNA-directed RNA polymerase subunit beta'',Nocardioides sp. JS614,2.48,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,2.0,2.0,5.7
+1967,DNA-directed RNA polymerase subunit beta'',Pedobacter saltans DSM 12145,2.46,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,,1.0,2.54
+1968,DNA-directed RNA polymerase subunit beta'',Prevotella ruminicola 23,1.57,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,,,
+1969,DNA-directed RNA polymerase subunit beta'',Pseudomonas fluorescens Pf-5,6.6,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,7.0,5.0,2.42
+1970,DNA-directed RNA polymerase subunit beta'',Rhodobacter sphaeroides 2.4.1,10.1,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,5.0,1.0,12.34
+1971,DNA-directed RNA polymerase subunit beta'',Rhodopseudomonas palustris BisB5,4.24,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,3.0,10.0,2.41
+1972,DNA-directed RNA polymerase subunit beta'',Rickettsia akari str. Hartford,5.0,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,2.0,1.0,1.76
+1973,DNA-directed RNA polymerase subunit beta'',Salinispora tropica CNB-440,0.0,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,,,0.0
+1974,DNA-directed RNA polymerase subunit gamma,Synechococcus sp. CC9605,15.62,Cyanobacteria,,Synechococcales,Synechococcaceae,,,20.45
+1975,DNA-directed RNA polymerase subunit gamma,Synechococcus sp. CC9902,9.02,Cyanobacteria,,Synechococcales,Synechococcaceae,1.0,1.0,5.73
+1976,DNA-directed RNA polymerase subunit gamma,Synechococcus sp. RCC307,18.42,Cyanobacteria,,Synechococcales,Synechococcaceae,,1.0,15.52
+1977,DNA-directed RNA polymerase subunit gamma,Synechococcus sp. WH 8102,0.0,Cyanobacteria,,Synechococcales,Synechococcaceae,2.0,3.0,4.93
+1978,DNA-directed RNA polymerase subunit omega,Bartonella bacilliformis KC583,2.47,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,,,3.26
+1979,DNA-directed RNA polymerase subunit omega,Gluconacetobacter diazotrophicus PAl 5,0.0,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,,,0.0
+1982,DNA-polymerase or DNA-primase,Lactobacillus delbrueckii subsp. bulgaricus ND02,1.62,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,,,
+2026,ECF subfamily RNA polymerase sigma-24 factor,Opitutus terrae PB90-1,2.47,Verrucomicrobia,Opitutae,Opitutales,Opitutaceae,1.0,1.0,0.0
+3194,Poly A polymerase family protein,Synechococcus sp. WH 7805,2.39,Cyanobacteria,,Synechococcales,Synechococcaceae,,,
+3195,Poly-beta-hydroxybutyrate polymerase domain protein,Tsukamurella paurometabola DSM 20162,0.0,Actinobacteria,Actinobacteria,Corynebacteriales,Tsukamurellaceae,,,0.0
+3206,Possible type 3 alternative RNA polymerase sigma factor,Synechococcus sp. RS9917,0.0,Cyanobacteria,,Synechococcales,Synechococcaceae,,,
+3284,RNA polymerase (beta'' subunit),Streptococcus gallolyticus UCN34,0.0,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,,,0.0
+3285,RNA polymerase ECF-type sigma factor,Flavobacterium psychrophilum JIP02/86,0.0,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,0.0
+3286,RNA polymerase ECF-type sigma factor,Gramella forsetii KT0803,4.2,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,3.0,4.0,6.53
+3287,RNA polymerase ECF-type sigma factor,Microscilla marina ATCC 23134,0.0,Bacteroidetes,Cytophagia,Cytophagales,Microscillaceae,1.0,1.0,
+3288,RNA polymerase II core subunit,Dictyostelium discoideum AX4,6.35,,,Dictyosteliida,,21.0,19.0,9.06
+3289,RNA polymerase Rpb,Tetrahymena thermophila,2.44,,Oligohymenophorea,Hymenostomatida,Tetrahymenidae,,,1.64
+3290,RNA polymerase alpha subunit,Rhodomonas salina,1.66,,Cryptophyta,Pyrenomonadales,Pyrenomonadaceae,2.0,2.0,1.56
+3291,RNA polymerase beta'''' subunit,Vaucheria litorea,1.58,Xanthophyceae,,Vaucheriales,Vaucheriaceae,2.0,2.0,1.71
+3292,RNA polymerase factor sigma-32,Dinoroseobacter shibae DFL 12,8.22,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,2.0,9.84
+3293,RNA polymerase factor sigma-32,Hyphomonas neptunium ATCC 15444,2.49,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,1.0,1.0,0.0
+3294,RNA polymerase factor sigma-32,Rhodobacter sphaeroides KD131,4.18,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,1.63
+3295,RNA polymerase factor sigma-32,Ruegeria pomeroyi DSS-3,8.23,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,2.0,,9.88
+3296,RNA polymerase factor sigma-32,Zymomonas mobilis subsp. mobilis NCIMB 11163,10.64,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,,,5.71
+3297,RNA polymerase factor sigma-54,Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594,1.56,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,,,
+3298,RNA polymerase factor sigma-54,Vibrio vulnificus CMCP6,4.05,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,,,2.51
+3299,RNA polymerase factor sigma-54,Xanthomonas campestris pv. campestris str. 8004,0.0,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,,,0.0
+3300,RNA polymerase ii largest subunit,Leishmania infantum JPCM5,0.0,,,Kinetoplastida,Trypanosomatidae,7.0,8.0,1.67
+3301,RNA polymerase sigma facto,Synechococcus sp. RCC307,7.26,Cyanobacteria,,Synechococcales,Synechococcaceae,,,8.36
+3302,RNA polymerase sigma factor,Candidatus Amoebophilus asiaticus 5a2,1.58,Bacteroidetes,Cytophagia,Cytophagales,Amoebophilaceae,7.0,2.0,2.43
+3303,RNA polymerase sigma factor 70,Moraxella catarrhalis RH4,0.0,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,,,
+3304,RNA polymerase sigma factor RpoD,Bradyrhizobium sp. ORS278,2.52,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,,1.0,1.6
+3305,RNA polymerase sigma factor RpoD,Erythrobacter litoralis HTCC2594,1.64,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,1.0,1.0,
+3306,RNA polymerase sigma factor RpoD,Nitrobacter winogradskyi Nb-255,2.44,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,,,0.0
+3307,RNA polymerase sigma factor RpoD,Novosphingobium aromaticivorans DSM 12444,1.63,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,,,0.0
+3308,RNA polymerase sigma factor RpoD,Ruegeria pomeroyi DSS-3,23.32,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,7.0,5.0,20.23
+3309,RNA polymerase sigma factor RpoD,Synechococcus sp. WH 7803,0.0,Cyanobacteria,,Synechococcales,Synechococcaceae,1.0,1.0,0.0
+3310,RNA polymerase sigma factor RpoD,Yersinia pestis Pestoides F,0.0,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,,,
+3311,RNA polymerase sigma factor RpoE,Colwellia psychrerythraea 34H,0.0,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,,,
+3312,RNA polymerase sigma factor RpoS,Aromatoleum aromaticum EbN1,0.0,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,,,
+3313,RNA polymerase sigma factor RpoS,Pseudomonas syringae pv. syringae B728a,0.0,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,,0.0
+3314,RNA polymerase sigma factor RpoS,Yersinia pseudotuberculosis PB1/+,0.0,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,,,0.0
+3315,RNA polymerase sigma factor SigC,Gloeobacter violaceus PCC 7421,0.0,Cyanobacteria,Gloeobacteria,Gloeobacterales,Gloeobacteraceae,,,
+3316,RNA polymerase sigma factor for flagellar operon,Congregibacter litoralis KT71,0.0,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,,,
+3317,RNA polymerase sigma factor rpoS,Blastopirellula marina DSM 3645,1.62,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,,,2.42
+3318,RNA polymerase sigma factor rpoe,Acidovorax ebreus TPSY,0.0,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,2.0,2.0,
+3319,RNA polymerase sigma-24 factor,Cytophaga hutchinsonii ATCC 33406,3.44,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,1.0,,
+3320,RNA polymerase sigma-24 factor,Flavobacteriales bacterium ALC-1,2.52,Bacteroidetes,Flavobacteriia,Flavobacteriales,,1.0,2.0,2.44
+3321,RNA polymerase sigma-32 factor,Rhodobacteraceae bacterium KLH11,9.72,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,7.53
+3322,RNA polymerase sigma-32 factor,Roseovarius sp. TM1035,4.93,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,1.62
+3323,RNA polymerase sigma-32 factor,alpha proteobacterium BAL199,1.61,Proteobacteria,Alphaproteobacteria,,,,,3.16
+3324,RNA polymerase sigma-54,Bacteroides thetaiotaomicron VPI-5482,2.51,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,,,1.68
+3325,RNA polymerase sigma-70 factor,Polaribacter sp. MED152,0.0,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,0.0
+3326,RNA polymerase sigma-70 factor,Porphyromonas gingivalis W83,0.0,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,1.0,1.0,0.0
+3327,RNA polymerase sigma-70 factor,Roseovarius sp. 217,13.28,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,14.0
+3328,RNA polymerase sigma-70 factor,marine gamma proteobacterium HTCC2143,0.0,Chordata,Mammalia,Rodentia,Muridae,,,0.0
+3329,RNA polymerase sigma-70 factor RpoD,Roseobacter sp. MED193,2.57,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,7.37
+3330,RNA polymerase-associated protein HepA,Vibrio cholerae V52,0.0,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,,1.0,0.0
+3331,RNA polymerase-associated protein rapA,Actinobacillus pleuropneumoniae serovar 9 str. CVJ13261,0.0,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,,,0.0
+3332,RNA polymerase-associated protein rapA,Vibrio harveyi 1DA3,0.0,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,,,0.0
+3399,RpoD subfamily RNA polymerase sigma-70,Thermobispora bispora DSM 43833,0.0,Actinobacteria,Actinobacteria,,,3.0,1.0,1.67
+3709,Type II alternative RNA polymerase sigma facto,Synechococcus sp. CC9311,5.77,Cyanobacteria,,Synechococcales,Synechococcaceae,,,7.35
+3710,Type II alternative RNA polymerase sigma facto,Synechococcus sp. WH 7805,3.35,Cyanobacteria,,Synechococcales,Synechococcaceae,,,4.94
+5961,error-prone DNA polymerase,Rhodopseudomonas palustris BisA53,0.0,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,,1.0,
+8956,phage SPO1 DNA polymerase-related protein,Parvibaculum lavamentivorans DS-1,1.56,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,1.0,1.0,1.7
+8957,phage SPO1 DNA polymerase-related protein,Ruegeria sp. TM1040,2.44,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,5.67
+9387,poly(3-hydroxyalkanoate) polymerase,Oceanicola batsensis HTCC2597,0.0,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,
+9388,poly(3-hydroxyalkanoate) polymerase,Rhodobacteraceae bacterium HTCC2150,1.66,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,1.6
+9389,poly(A) polymerase,Allochromatium vinosum DSM 180,0.0,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,,,
+9390,poly(A) polymerase,Delftia acidovorans SPH-1,2.39,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,,,1.64
+9391,poly(A) polymerase,Pseudoalteromonas atlantica T6c,0.0,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,,,
+9392,poly(A) polymerase,Pseudomonas syringae pv. tomato K40,1.63,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,,
+9393,poly(A) polymerase (PAP) (Plasmid copy number protein),Aggregatibacter actinomycetemcomitans D11S-1,0.0,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,,,0.0
+9396,poly-beta-hydroxybutyrate polymerase,Oceanicola granulosus HTCC2516,0.0,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,
+9405,polymerase (RNA) I polypeptide C,Rattus norvegicus,0.0,Chordata,Mammalia,Rodentia,Muridae,,,
+9610,probable DNA-directed RNA polymerase alpha chain,Blastopirellula marina DSM 3645,1.71,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,1.0,,3.24
+9923,putative DNA polymerase II,Carboxydothermus hydrogenoformans Z-2901,0.0,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,,,0.0
+9975,putative RNA polymerase sigma-54 factor,Psychroflexus torquis ATCC 700755,5.75,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,3.32
+10287,putative polyA polymerase,Polaribacter irgensii 23-P,4.09,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,7.42
+10329,putative sigma 70 factor of RNA polymerase,Herminiimonas arsenicoxydans,0.0,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,1.0,1.0,
+11154,similar to DNA-directed RNA polymerase II subunit RPB1 isoform 2,Hydra magnipapillata,0.0,Cnidaria,Hydrozoa,Anthoathecata,Hydridae,,,1.62
+11475,tRNA nucleotidyltransferase/poly(A) polymerase,Bermanella marisrubri,0.0,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,,,0.0
+11476,tRNA nucleotidyltransferase/poly(A) polymerase,Reinekea blandensis MED297,0.0,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Saccharospirillaceae,1.0,1.0,0.0
+11477,tRNA nucleotidyltransferase/poly(A) polymerase,Synechococcus sp. RS9916,2.4,Cyanobacteria,,Synechococcales,Synechococcaceae,,,1.64
+12095,type II alternative RNA polymerase sigma factor,Synechococcus sp. WH 8102,0.0,Cyanobacteria,,Synechococcales,Synechococcaceae,,,0.0
+13417,DNA polymerase,Thalassiosira pseudonana CCMP1335,,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,10.0,8.0,
+13418,DNA polymerase I,Bartonella tribocorum CIP 105476,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,2.0,3.0,
+13419,DNA polymerase I,Clostridium botulinum F str. Langeland,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,1.0,1.0,
+13420,DNA polymerase I,Mobiluncus mulieris 28-1,,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,1.0,2.0,
+13421,DNA polymerase I,Photorhabdus luminescens subsp. laumondii TTO1,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,1.0,1.0,1.61
+13422,DNA polymerase I,Pseudomonas aeruginosa PAO1,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,8.0,7.0,
+13423,DNA polymerase I,Rhodopseudomonas palustris BisB5,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,2.0,2.0,
+13424,DNA polymerase I,Sagittula stellata E-37,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,1.0,1.0,
+13425,DNA polymerase I,Thiomicrospira crunogena XCL-2,,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,1.0,1.0,
+13426,DNA polymerase I,Tolumonas auensis DSM 9187,,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,1.0,1.0,
+13427,DNA polymerase I,beta proteobacterium KB13,,Proteobacteria,Betaproteobacteria,Methylophilales,,18.0,18.0,
+13428,DNA polymerase I,candidate division TM7 single-cell isolate TM7a,,,,,,2.0,2.0,
+13429,DNA polymerase II,Acidithiobacillus caldus ATCC 51756,,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,1.0,,
+13430,DNA polymerase II,Beutenbergia cavernae DSM 12333,,Actinobacteria,Actinobacteria,Micrococcales,Beutenbergiaceae,1.0,1.0,
+13431,DNA polymerase II,Dinoroseobacter shibae DFL 12,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,1.0,1.0,
+13432,DNA polymerase II,Marinobacter aquaeolei VT8,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,1.0,1.0,
+13433,DNA polymerase II,Pseudoalteromonas atlantica T6c,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,1.0,1.0,
+13434,DNA polymerase II,Roseobacter denitrificans OCh 114,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,8.0,7.0,
+13435,DNA polymerase II,Spirosoma linguale DSM 74,,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,1.0,,
+13436,DNA polymerase II,Thermoanaerobacter tengcongensis MB4,,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,1.0,,
+13437,DNA polymerase II,Thiomonas intermedia K12,,Proteobacteria,Betaproteobacteria,Burkholderiales,,2.0,3.0,
+13438,DNA polymerase II,Tolumonas auensis DSM 9187,,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,1.0,,
+13439,DNA polymerase III DnaE,Lactococcus lactis subsp. cremoris SK11,,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,1.0,,
+13440,DNA polymerase III DnaE,Mycoplasma hyopneumoniae 7448,,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,1.0,2.0,
+13441,DNA polymerase III PolC-type (PolIII),alpha proteobacterium HIMB114,,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,12.0,13.0,
+13442,DNA polymerase III alpha subunit,Blastopirellula marina DSM 3645,,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,1.0,2.0,0.0
+13443,DNA polymerase III alpha subunit,Polaribacter sp. MED152,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,1.0,,
+13444,DNA polymerase III alpha subunit,Thermomicrobium roseum DSM 5159,,Chloroflexi,Thermomicrobia,Thermomicrobiales,Thermomicrobiaceae,1.0,1.0,
+13445,DNA polymerase III chi subunit HolC,Kangiella koreensis DSM 16069,,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Kangiellaceae,1.0,1.0,
+13446,DNA polymerase III epsilon subunit family exonuclease,Ruegeria pomeroyi DSS-3,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,2.0,4.0,
+13447,DNA polymerase III subunit alpha,Amycolatopsis mediterranei U32,,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,1.0,,
+13448,DNA polymerase III subunit alpha,Anabaena variabilis ATCC 29413,,Cyanobacteria,,Nostocales,Nostocaceae,1.0,,
+13449,DNA polymerase III subunit alpha,Borrelia garinii PBi,,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,1.0,,0.0
+13450,DNA polymerase III subunit alpha,Rhodococcus jostii RHA1,,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,1.0,,
+13451,DNA polymerase III subunit alpha,Rickettsia akari str. Hartford,,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,1.0,,
+13452,DNA polymerase III subunit alpha,Ruegeria pomeroyi DSS-3,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,5.0,7.0,
+13453,DNA polymerase III subunit alpha,Thermobifida fusca YX,,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,2.0,2.0,
+13454,DNA polymerase III subunit beta,Ruegeria pomeroyi DSS-3,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,3.0,3.0,
+13455,DNA polymerase III subunit beta,Verrucomicrobium spinosum DSM 4136,,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,2.0,,
+13456,DNA polymerase III subunit delta,Reinekea blandensis MED297,,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Saccharospirillaceae,1.0,1.0,
+13457,DNA polymerase III subunit delta'',Catenulispora acidiphila DSM 44928,,Actinobacteria,Actinobacteria,Catenulisporales,Catenulisporaceae,1.0,,
+13458,DNA polymerase III subunit epsilon,Brucella melitensis bv. 1 str. 16M,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,1.0,,
+13459,DNA polymerase III subunit epsilon,Photorhabdus luminescens subsp. laumondii TTO1,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,1.0,,
+13460,DNA polymerase III subunits gamma and tau,Alteromonas macleodii ATCC 27126,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,1.0,1.0,
+13461,DNA polymerase III subunits gamma and tau,Arthrobacter aurescens TC1,,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,2.0,1.0,
+13462,DNA polymerase III subunits gamma and tau,Azotobacter vinelandii DJ,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,1.0,1.0,
+13463,DNA polymerase III subunits gamma and tau,Nitrobacter hamburgensis X14,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,1.0,1.0,
+13464,DNA polymerase IV,Pseudomonas syringae pv. syringae B728a,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,1.0,1.0,
+13465,DNA polymerase IV,Robiginitalea biformata HTCC2501,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,4.0,4.0,
+13466,DNA polymerase IV,Syntrophus aciditrophicus SB,,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,1.0,,
+13467,DNA polymerase V subunit UmuC,Escherichia coli,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,5.0,4.0,
+13468,DNA polymerase epsilon catalytic subunit that participates with PCNA in late in S phase DNA replication,Phaeodactylum tricornutum CCAP 1055/1,,Bacillariophyta,Bacillariophyceae,Naviculales,Phaeodactylaceae,4.0,1.0,
+13469,DNA polymerase i,Calditerrivibrio nitroreducens DSM 19672,,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,1.0,1.0,
+13470,DNA polymerase ii,Marivirga tractuosa DSM 4126,,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,1.0,1.0,
+13471,DNA polymerase subunit B,Aeromonas phage 25,,,,Caudovirales,Myoviridae,1.0,,
+13472,DNA polymerase type,Trichomonas vaginalis G3,,,,Trichomonadida,Trichomonadidae,2.0,1.0,
+13473,DNA polymerase-like protein,Enterobacteria phage Phieco32,,,,Caudovirales,Podoviridae,2.0,1.0,0.0
+13531,DNA-dependent RNA polymerase II RPB140,Aspergillus fumigatus Af293,,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,4.0,8.0,
+13532,DNA-dependent RNA polymerase II RPB140,Talaromyces stipitatus ATCC 10500,,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,1.0,1.0,
+13534,DNA-directed DNA polymerase,Hirschia baltica ATCC 49814,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,1.0,1.0,
+13535,DNA-directed DNA polymerase,Methanocaldococcus infernus ME,,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,1.0,1.0,
+13536,DNA-directed DNA polymerase,Mobiluncus curtisii ATCC 43063,,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,1.0,2.0,
+13537,DNA-directed DNA polymerase,Nitrosospira multiformis ATCC 25196,,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,2.0,2.0,
+13538,DNA-directed DNA polymerase,Opitutaceae bacterium TAV2,,Verrucomicrobia,Opitutae,Opitutales,Opitutaceae,1.0,,
+13539,DNA-directed DNA polymerase I,Aeromicrobium marinum DSM 15272,,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,1.0,,
+13540,DNA-directed DNA polymerase I,Rothia dentocariosa ATCC 17931,,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,1.0,,
+13548,DNA-directed RNA polymerase,Actinomyces urogenitalis DSM 15434,,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,2.0,1.0,
+13549,DNA-directed RNA polymerase,Schizosaccharomyces pombe 972h-,,Ascomycota,Schizosaccharomycetes,Schizosaccharomycetales,Schizosaccharomycetaceae,1.0,1.0,
+13550,DNA-directed RNA polymerase III B,Rattus norvegicus,,Chordata,Mammalia,Rodentia,Muridae,2.0,2.0,
+13551,DNA-directed RNA polymerase III largest subunit,Cryptosporidium muris RN66,,Apicomplexa,Coccidia,Eucoccidiorida,Cryptosporidiidae,1.0,2.0,
+13552,DNA-directed RNA polymerase beta subunit,Dehalococcoides sp. VS,,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,1.0,,
+13553,DNA-directed RNA polymerase beta subunit,Idiomarina loihiensis L2TR,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,4.0,5.0,
+13554,DNA-directed RNA polymerase beta'' chain,Candidatus Sulcia muelleri str. Hc (Homalodisca coagulata),,Arthropoda,Insecta,Hemiptera,Cicadellidae,3.0,1.0,
+13555,DNA-directed RNA polymerase beta'' chain,Durinskia baltica,,,Dinophyceae,Peridiniales,Peridiniaceae,3.0,4.0,
+13556,DNA-directed RNA polymerase beta'' subunit,Vibrio alginolyticus 40B,,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,1.0,1.0,
+13557,DNA-directed RNA polymerase omega subunit,marine actinobacterium PHSC20C1,,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,3.0,4.0,0.0
+13558,DNA-directed RNA polymerase subunit alpha,Francisella tularensis subsp. tularensis MA00-2987,,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,1.0,1.0,
+13559,DNA-directed RNA polymerase subunit alpha,Maricaulis maris MCS10,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,1.0,,
+13560,DNA-directed RNA polymerase subunit alpha,Mucilaginibacter paludis DSM 18603,,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,1.0,,
+13561,DNA-directed RNA polymerase subunit alpha,Plesiocystis pacifica SIR-1,,Proteobacteria,Deltaproteobacteria,Myxococcales,Nannocystaceae,1.0,,
+13562,DNA-directed RNA polymerase subunit beta,Buchnera aphidicola str. Sg (Schizaphis graminum),,Streptophyta,,Lamiales,Orobanchaceae,1.0,,
+13563,DNA-directed RNA polymerase subunit beta,Candidatus Nitrospira defluvii,,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,2.0,1.0,
+13564,DNA-directed RNA polymerase subunit beta,Chryseobacterium gleum ATCC 35910,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,3.0,,
+13565,DNA-directed RNA polymerase subunit beta,Legionella pneumophila str. Corby,,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,3.0,2.0,0.0
+13566,DNA-directed RNA polymerase subunit beta,Methylobacterium populi BJ001,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,1.0,1.0,
+13567,DNA-directed RNA polymerase subunit beta,Mycoplasma hyopneumoniae 7448,,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,1.0,1.0,
+13568,DNA-directed RNA polymerase subunit beta,Porphyromonas gingivalis W83,,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,4.0,2.0,
+13569,DNA-directed RNA polymerase subunit beta,Prochlorococcus marinus str. NATL2A,,Cyanobacteria,,Synechococcales,Prochloraceae,3.0,1.0,
+13570,DNA-directed RNA polymerase subunit beta,Vibrio vulnificus YJ016,,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,2.0,1.0,
+13571,DNA-directed RNA polymerase subunit beta'',Acaryochloris marina MBIC11017,,Cyanobacteria,,Synechococcales,Acaryochloridaceae,1.0,1.0,
+13572,DNA-directed RNA polymerase subunit beta'',Clostridium beijerinckii NCIMB 8052,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,2.0,1.0,
+13573,DNA-directed RNA polymerase subunit beta'',Desulfitobacterium hafniense Y51,,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,1.0,,
+13574,DNA-directed RNA polymerase subunit beta'',Paracoccus denitrificans PD1222,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,5.0,3.0,
+13575,DNA-directed RNA polymerase subunit beta'',Prochlorococcus marinus subsp. pastoris str. CCMP1986,,Cyanobacteria,,Synechococcales,Prochloraceae,7.0,6.0,
+13576,DNA-directed RNA polymerase subunit beta'',Shewanella amazonensis SB2B,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,1.0,2.0,1.69
+13577,DNA-directed RNA polymerase subunit beta'',Staphylococcus epidermidis ATCC 12228,,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,1.0,4.0,
+13578,DNA-directed RNA polymerase subunit beta'',Streptococcus pyogenes MGAS5005,,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,7.0,,
+13579,DNA-directed RNA polymerase subunit omega,Clavibacter michiganensis subsp. sepedonicus,,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,2.0,1.0,
+13580,DNA-directed RNA polymerase subunit omega,Rhodopseudomonas palustris TIE-1,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,1.0,1.0,
+13621,ECF family RNA polymerase sigma-70 factor,Maribacter sp. HTCC2170,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,1.0,1.0,
+13640,Exonuclease RNase T and DNA polymerase III,Acidithiobacillus ferrooxidans ATCC 53993,,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,1.0,1.0,
+13641,Exonuclease RNase T and DNA polymerase III,Ferrimonas balearica DSM 9799,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Ferrimonadaceae,1.0,1.0,
+14503,RNA polymerase,Leeuwenhoekiella blandensis MED217,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,2.0,1.0,
+14504,RNA polymerase ECF-type sigma factor,Glaciecola sp. HTCC2999,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,1.0,1.0,
+14505,RNA polymerase beta subunit,Vaucheria litorea,,Xanthophyceae,,Vaucheriales,Vaucheriaceae,5.0,6.0,
+14506,RNA polymerase beta'' subunit,Micromonas sp. RCC299,,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,1.0,1.0,
+14507,RNA polymerase beta'''' subunit,Cyanidium caldarium,,,Bangiophyceae,Cyanidiales,Cyanidiaceae,4.0,2.0,
+14508,RNA polymerase beta'''' subunit,Cyanophora paradoxa,,,Glaucocystophyceae,,Cyanophoraceae,6.0,4.0,
+14509,RNA polymerase factor sigma-32,Aliivibrio salmonicida LFI1238,,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,1.0,,
+14510,RNA polymerase factor sigma-32,Candidatus Pelagibacter ubique HTCC1062,,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,53.0,47.0,
+14511,RNA polymerase factor sigma-32,Colwellia psychrerythraea 34H,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,1.0,1.0,
+14512,RNA polymerase factor sigma-54,Pseudomonas syringae pv. tomato Max13,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,1.0,2.0,3.25
+14513,RNA polymerase sigma factor,Haemophilus influenzae 22.4-21,,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,1.0,1.0,
+14514,RNA polymerase sigma factor,Neptuniibacter caesariensis,,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,1.0,1.0,
+14515,RNA polymerase sigma factor RpoD,Pseudomonas fluorescens Pf-5,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,6.0,6.0,
+14516,RNA polymerase sigma factor RpoE,gamma proteobacterium NOR51-B,,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,1.0,1.0,
+14517,RNA polymerase sigma factor SigB,Saccharopolyspora erythraea NRRL 2338,,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,1.0,1.0,
+14518,RNA polymerase-associated protein LEO1,Danio rerio,,Chordata,Actinopteri,Cypriniformes,Cyprinidae,1.0,1.0,
+14525,RNA-directed DNA polymerase (Reverse transcriptase),Chlorobium phaeobacteroides DSM 266,,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,1.0,1.0,
+14526,RNA-directed DNA polymerase (Reverse transcriptase),Cyanothece sp. PCC 8802,,Cyanobacteria,,Oscillatoriales,Cyanothecaceae,1.0,,
+14527,RNA-directed DNA polymerase domain-containing protein,Myxococcus xanthus DK 1622,,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,1.0,1.0,0.0
+14580,RpoD family RNA polymerase sigma factor,Alkaliphilus metalliredigens QYMF,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,2.0,2.0,
+14581,RpoD family RNA polymerase sigma factor,Caldicellulosiruptor saccharolyticus DSM 8903,,Firmicutes,Clostridia,Thermoanaerobacterales,,1.0,,
+15334,anti-RNA polymerase sigma 70 factor,Pseudomonas aeruginosa UCBPP-PA14,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,1.0,1.0,
+15472,beta'' subunit of RNA polymerase,Floydiella terrestris,,Chlorophyta,Chlorophyceae,Chaetopeltidales,Chaetopeltidaceae,1.0,1.0,
+16258,error-prone DNA polymerase,Burkholderia pseudomallei 1106a,,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,1.0,,
+16259,error-prone DNA polymerase,Mycobacterium gilvum PYR-GCK,,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,1.0,,
+16260,error-prone DNA polymerase,Roseibium sp. TrichSKD4,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,3.0,,
+17990,phage SPO1 DNA polymerase-related protein,Akkermansia muciniphila ATCC BAA-835,,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,1.0,1.0,
+18243,plastid RNA polymerase sigma factor,Thalassiosira pseudonana CCMP1335,,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,2.0,2.0,
+18249,poly (ADP-ribose) polymerase famil,Saccoglossus kowalevskii,,Hemichordata,Enteropneusta,,Harrimaniidae,1.0,1.0,
+18250,poly A polymerase,Lactobacillus amylolyticus DSM 11664,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,1.0,,
+18251,poly(3-hydroxyalkanoate) polymerase 2,Pseudomonas putida KT2440,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,1.0,1.0,
+18252,poly(A) polymerase,Methylovorus sp. SIP3-4,,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,1.0,1.0,
+18253,poly(A) polymerase,gamma proteobacterium NOR51-B,,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,1.0,1.0,
+18254,poly(A) polymerase I,Escherichia coli BW2952,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,2.0,1.0,
+18255,poly(A) polymerase subfamily protein,marine gamma proteobacterium HTCC2148,,,,,,1.0,1.0,
+18263,polyhydroxybutyrate depolymerase,Pseudoalteromonas atlantica T6c,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,3.0,2.0,
+18578,putative DNA polymerase II,Teredinibacter turnerae T7901,,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,5.0,1.0,
+18579,putative DNA polymerase III alpha subunit,Janibacter sp. HTCC2649,,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,1.0,,
+18796,putative poly(A) polymerase,Lentisphaera araneosa HTCC2155,,Lentisphaerae,Lentisphaeria,Lentisphaerales,Lentisphaeraceae,1.0,1.0,
+19406,similar to DNA-directed RNA polymerase II largest subunit (RPB1),Pan troglodytes,,Chordata,Mammalia,Primates,Hominidae,1.0,1.0,
+20649,DNA polymerase I,Babesia bovis T2Bo,,Apicomplexa,Aconoidasida,,Babesiidae,,3.0,
+20650,DNA polymerase I,Flavobacteriales bacterium ALC-1,,Bacteroidetes,Flavobacteriia,Flavobacteriales,,,11.0,
+20651,DNA polymerase I,Maricaulis maris MCS10,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,,1.0,
+20652,DNA polymerase I,Moraxella catarrhalis RH4,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,,1.0,
+20653,DNA polymerase II,Candidatus Accumulibacter phosphatis clade IIA str. UW-1,,Proteobacteria,Betaproteobacteria,,,,1.0,
+20654,DNA polymerase II,Enterococcus faecalis HH22,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,,2.0,
+20655,DNA polymerase II,Flavobacterium johnsoniae UW101,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,1.0,
+20656,DNA polymerase II,Flavobacterium psychrophilum JIP02/86,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,2.0,
+20657,DNA polymerase II,Intrasporangium calvum DSM 43043,,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,,2.0,
+20658,DNA polymerase II,Methylophaga thiooxidans DMS010,,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,,1.0,
+20659,DNA polymerase II,Pseudomonas aeruginosa C3719,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,5.0,1.66
+20660,DNA polymerase II,Pseudovibrio sp. JE062,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,1.0,
+20661,DNA polymerase II,Shewanella sp. MR-7,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,,1.0,
+20662,DNA polymerase III epsilon subunit,Yersinia pestis Nepal516,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,,1.0,
+20663,DNA polymerase III gamma and tau subunits homolog,Macrococcus caseolyticus JCSC5402,,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,,2.0,
+20664,DNA polymerase III gamma/tau subunit,Pedobacter saltans DSM 12145,,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,,1.0,
+20665,DNA polymerase III subunit alpha,Aggregatibacter aphrophilus NJ8700,,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,,1.0,
+20666,DNA polymerase III subunit alpha,Candidatus Puniceispirillum marinum IMCC1322,,Proteobacteria,Alphaproteobacteria,,,,2.0,
+20667,DNA polymerase III subunit alpha,Methylobacterium sp. 4-46,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,,1.0,
+20668,DNA polymerase III subunit gamma/tau,Robiginitalea biformata HTCC2501,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,1.0,
+20669,DNA polymerase III subunits gamma and tau,Brucella melitensis bv. 1 str. Rev.1,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,,1.0,
+20670,DNA polymerase III subunits gamma and tau,Burkholderia pseudomallei 668,,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,,1.0,
+20671,DNA polymerase III subunits gamma and tau,Ruegeria pomeroyi DSS-3,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,1.0,
+20672,DNA polymerase IV,Pseudomonas stutzeri A1501,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,1.0,
+20708,DNA-directed DNA polymerase,Burkholderia ambifaria MEX-5,,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,,1.0,
+20709,DNA-directed DNA polymerase,Salinispora tropica CNB-440,,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,,1.0,
+20710,DNA-directed DNA polymerase,Scheffersomyces stipitis CBS 6054,,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,,1.0,
+20711,DNA-directed DNA polymerase,Shewanella sediminis HAW-EB3,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,,1.0,
+20712,DNA-directed DNA polymerase III (polc),Candidatus Sulcia muelleri DMIN,,Bacteroidetes,Flavobacteriia,Flavobacteriales,,,1.0,
+20716,DNA-directed RNA polymerase III subunit RPC1,Verticillium albo-atrum VaMs.102,,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,,1.0,
+20717,DNA-directed RNA polymerase beta'' chain,Aster yellows witches''-broom phytoplasma AYWB,,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,,1.0,
+20718,DNA-directed RNA polymerase subunit A'''',Thermococcus kodakarensis KOD1,,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,,2.0,
+20719,DNA-directed RNA polymerase subunit alpha,Brucella melitensis ATCC 23457,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,,1.0,0.0
+20720,DNA-directed RNA polymerase subunit beta,Aeromonas hydrophila subsp. hydrophila ATCC 7966,,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,,1.0,0.0
+20721,DNA-directed RNA polymerase subunit beta,Anaeromyxobacter sp. Fw109-5,,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,,2.0,
+20722,DNA-directed RNA polymerase subunit beta,Cyanothece sp. PCC 8802,,Cyanobacteria,,Oscillatoriales,Cyanothecaceae,,6.0,
+20723,DNA-directed RNA polymerase subunit beta,Salmonella enterica subsp. enterica serovar Typhi str. J185,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,,1.0,
+20724,DNA-directed RNA polymerase subunit beta,Stenotrophomonas maltophilia R551-3,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,,1.0,2.51
+20725,DNA-directed RNA polymerase subunit beta'',Acinetobacter johnsonii SH046,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,,1.0,
+20726,DNA-directed RNA polymerase subunit beta'',Bacillus amyloliquefaciens FZB42,,Firmicutes,Bacilli,Bacillales,Bacillaceae,,1.0,
+20727,DNA-directed RNA polymerase subunit beta'',Bordetella petrii DSM 12804,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,,1.0,
+20728,DNA-directed RNA polymerase subunit beta'',Candidatus Protochlamydia amoebophila UWE25,,Chlamydiae,Chlamydiia,Parachlamydiales,Parachlamydiaceae,,6.0,
+20729,DNA-directed RNA polymerase subunit omega,Streptomyces lividans TK24,,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,,1.0,
+20740,ECF family RNA polymerase sigma factor,Cytophaga hutchinsonii ATCC 33406,,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,,1.0,
+21068,RNA polymerase,Thalassiosira pseudonana CCMP1335,,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,,2.0,
+21069,RNA polymerase beta subunit,Oryza nivara,,Streptophyta,Liliopsida,Poales,Poaceae,,1.0,
+21070,RNA polymerase beta subunit,Populus trichocarpa,,Streptophyta,,Malpighiales,Salicaceae,,1.0,
+21071,RNA polymerase major sigma subunit,Corynebacterium striatum ATCC 6940,,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,,2.0,
+21072,RNA polymerase sigma-70 facto,unidentified eubacterium SCB49,,,,,,,1.0,
+21073,RNA polymerase sigma-70 factor,marine actinobacterium PHSC20C1,,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,,1.0,
+21079,RNA-directed DNA polymerase (Reverse transcriptase),Gemmata obscuriglobus UQM 2246,,Planctomycetes,Planctomycetia,Planctomycetales,Gemmataceae,,1.0,
+21425,beta'' subunit of RNA polymerase,Oedogonium cardiacum,,Chlorophyta,Chlorophyceae,Oedogoniales,,,1.0,
+22475,poly-beta-hydroxybutyrate polymerase,Bordetella pertussis Tohama I,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,,1.0,
+22614,putative DNA polymerase I,Dokdonia donghaensis MED134,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,1.0,
+23542,DNA polymerase I,Mycobacterium abscessus ATCC 19977,,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,,,0.0
+23543,DNA polymerase I,Proteus mirabilis HI4320,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,,,1.62
+23544,DNA polymerase II,Streptomyces sp. ACT-1,,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,,,0.0
+23545,DNA polymerase II,gamma proteobacterium HTCC2207,,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Porticoccaceae,,,0.0
+23546,DNA polymerase III DnaE,Clostridium novyi NT,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,,,1.6
+23547,DNA polymerase III alpha chain,Buchnera aphidicola str. APS (Acyrthosiphon pisum),,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,,,1.59
+23548,DNA polymerase III alpha subunit,Streptomyces avermitilis MA-4680,,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,,,1.65
+23549,DNA polymerase III catalytic subuni,Rubrobacter xylanophilus DSM 9941,,Actinobacteria,Rubrobacteria,Rubrobacterales,Rubrobacteraceae,,,0.0
+23550,DNA polymerase III subunit alpha,Burkholderia pseudomallei MSHR346,,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,,,1.71
+23551,DNA polymerase III subunit alpha,Xanthomonas axonopodis pv. citri str. 306,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,,,0.0
+23552,DNA polymerase III subunit beta,Pseudomonas putida GB-1,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,,,0.0
+23553,DNA polymerase III subunit epsilon,Serratia odorifera 4Rx13,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,,,0.0
+23554,DNA polymerase III subunit epsilon,Stenotrophomonas maltophilia K279a,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,,,0.0
+23555,DNA polymerase III subunits gamma and tau,Buchnera aphidicola str. Sg (Schizaphis graminum),,Streptophyta,,Lamiales,Orobanchaceae,,,0.0
+23556,DNA polymerase III subunits gamma and tau,Fusobacterium nucleatum subsp. nucleatum ATCC 25586,,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,,,0.0
+23557,DNA polymerase III subunits gamma and tau,Granulibacter bethesdensis CGDNIH1,,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,,,0.0
+23558,DNA polymerase III subunits gamma and tau,Rickettsia rickettsii str. Iowa,,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,,,0.0
+23559,DNA polymerase IV,Actinobacillus minor NM305,,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,,,0.0
+23560,DNA polymerase IV,Capnocytophaga gingivalis ATCC 33624,,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,,,0.0
+23586,DNA-directed RNA polymerase subunit beta,Citrobacter koseri ATCC BAA-895,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,,,0.0
+23587,DNA-directed RNA polymerase subunit beta'',Shewanella piezotolerans WP3,,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,,,1.66
+23588,DNA-directed RNA polymerase subunit beta'''',Methanobrevibacter smithii ATCC 35061,,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,,,0.0
+23601,Exonuclease RNase T and DNA polymerase III,Alicycliphilus denitrificans BC,,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,,,1.58
+23834,Putative type II alternative RNA polymerase sigma factor,Synechococcus sp. WH 5701,,Cyanobacteria,,Synechococcales,Synechococcaceae,,,1.53
+23837,RNA polymerase ECF-subfamily sigma factor,Saccharopolyspora erythraea NRRL 2338,,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,,,0.0
+23838,RNA polymerase factor sigma-54,Rhizobium etli CFN 42,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,,,0.0
+23839,RNA polymerase sigma factor,Corynebacterium efficiens YS-314,,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,,,0.0
+23840,RNA polymerase sigma factor WhiG,Leptospira interrogans serovar Lai str. 56601,,Spirochaetes,Spirochaetia,,Leptospiraceae,,,1.64
+24369,error-prone DNA polymerase,Brucella melitensis bv. 3 str. Ether,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,,,0.0
+24518,gp43 DNA polymerase,Enterobacteria phage IME08,,,,Caudovirales,Myoviridae,,,0.0
+24942,poly(A) polymerase protein,Rhizobium etli CIAT 652,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,,,1.54
+24943,poly-beta-hydroxybutyrate polymerase,Citreicella sp. SE45,,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,,,0.0
